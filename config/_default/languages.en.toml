@@ -1,0 +1,31 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Xuân Khoa'Blog"
+
+[params]
+displayName = "English"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "XuanKhoa2.png"
+description = "Code code code and code"
+secondaryLogo = "XuanKhoa2.png"
+
+  [params.author]
+  name = "Blowfish"
+  email = "nuno@n9o.xyz"
+  image = "XuanKhoa.png"
+  headline = "Code code code and code"
+  bio = "Code code code and code"
+
+    [[params.author.links]]
+    facebook = "https://www.facebook.com/tran.xuan.khoa.18619"
+
+    [[params.author.links]]
+    github = "https://github.com/TranXuanKhoaa"
+
+["params.author"]
+image = "XuanKhoa.png"
+name = "Trần Xuân Khoa"
+bio = "Code Code Code ..."

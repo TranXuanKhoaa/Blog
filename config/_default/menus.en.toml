@@ -1,0 +1,22 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Posts"
+pageRef = "Posts"
+identifier = "1d1afvLjV9"
+weight = 1
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+[[main]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
+
+[[main]]
+   name = "Authors"
+   pageRef = "authors"
+   weight = 20
